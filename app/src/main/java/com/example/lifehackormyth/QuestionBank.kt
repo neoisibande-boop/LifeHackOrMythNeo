@@ -1,0 +1,17 @@
+package com.example.lifehackormyth
+
+/** Edit this list to add cards. True = genuine hack; false = myth. */
+object QuestionBank {
+    val questions: List<Flashcard> = listOf(
+        Flashcard("Washing your hands with soap and water for at least 20 seconds helps remove germs.", true, "Scrub all surfaces of your hands, rinse, and dry. Soap and water are especially important when hands are visibly dirty.", "https://www.cdc.gov/clean-hands/about/index.html"),
+        Flashcard("Putting a wet iPhone in a bag of rice is a manufacturer-recommended drying method.", false, "Apple advises against rice because particles can damage the phone. Disconnect cables, do not charge while wet, and follow the device manufacturer’s drying guidance.", "https://support.apple.com/en-us/102643"),
+        Flashcard("Rinsing ordinary fresh fruits and vegetables under plain running water is a useful cleaning step.", true, "Gently rub produce under running water. The FDA says soap and produce washes are not needed. Follow the packaging instructions for prewashed produce.", "https://www.fda.gov/consumers/consumer-updates/7-tips-cleaning-fruits-vegetables"),
+        Flashcard("Mixing bleach with ammonia makes a safer, stronger household cleaner.", false, "Never mix bleach with ammonia or other cleaners. Dangerous gases can be released. Follow the label and use proper ventilation.", "https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html"),
+        Flashcard("A food thermometer can help check that reheated leftovers reach 74°C (165°F).", true, "Properly stored leftovers should be reheated to 74°C (165°F). Check several places, especially when microwaving. Reheating does not make improperly stored food safe.", "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety"),
+        Flashcard("Chrome Incognito mode makes your browsing invisible to websites and your internet provider.", false, "Incognito limits what Chrome saves on your device. Websites, your employer or school, and your internet provider may still see your activity.", "https://support.google.com/chrome/answer/95464"),
+        Flashcard("When soap and water are unavailable, a hand sanitizer with at least 60% alcohol can help clean hands.", true, "Use enough sanitizer to cover all hand surfaces and rub until dry. Sanitizer is not a substitute for soap and water when hands are visibly dirty or greasy.", "https://www.cdc.gov/clean-hands/about/hand-sanitizer.html"),
+        Flashcard("Washing fresh fruit with household soap is recommended by the FDA.", false, "The FDA does not recommend soap or detergent on produce. Produce is porous and can absorb residues. Use plain running water instead.", "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"),
+        Flashcard("Stirring and rotating food during microwaving can help it heat more evenly.", true, "Cover, stir, and rotate food as appropriate for the recipe and appliance. Follow standing-time instructions and check a safe internal temperature with a thermometer.", "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"),
+        Flashcard("Combining bleach with vinegar is a safe cleaning shortcut.", false, "Bleach mixed with vinegar can release chlorine gas. Never mix bleach with acids or other cleaning products; follow the product label.", "https://www.cdc.gov/mmwr/volumes/69/wr/mm6923e2.htm")
+    )
+}

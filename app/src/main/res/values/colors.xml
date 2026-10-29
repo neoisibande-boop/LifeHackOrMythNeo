@@ -1,0 +1,9 @@
+<resources>
+    <color name="navy">#122B3F</color>
+    <color name="teal">#006B65</color>
+    <color name="paper">#F5F8F8</color>
+    <color name="ink">#122B3F</color>
+    <color name="muted">#4E6370</color>
+    <color name="error">#9E2437</color>
+    <color name="white">#FFFFFF</color>
+</resources>

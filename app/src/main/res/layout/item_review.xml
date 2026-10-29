@@ -1,0 +1,9 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical" android:layout_marginBottom="16dp" android:background="@drawable/card_background">
+<TextView android:id="@+id/numberText" style="@style/Label" android:layout_width="match_parent" android:layout_height="wrap_content" />
+<TextView android:id="@+id/statementText" style="@style/Title" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="22sp"/>
+<TextView android:id="@+id/correctAnswerText" style="@style/Label" android:layout_width="match_parent" android:layout_height="wrap_content" />
+<TextView android:id="@+id/yourAnswerText" style="@style/Label" android:layout_width="match_parent" android:layout_height="wrap_content" />
+<TextView android:id="@+id/explanationText" style="@style/Body" android:layout_width="match_parent" android:layout_height="wrap_content" />
+<TextView android:id="@+id/sourceText" style="@style/Label" android:layout_width="match_parent" android:layout_height="wrap_content" android:autoLink="web" android:linksClickable="true"/></LinearLayout>

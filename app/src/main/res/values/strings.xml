@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Life Hack or Urban Myth?</string>
+    <string name="brand">HACK / MYTH</string>
+    <string name="welcome_title">Think before you try.</string>
+    <string name="welcome_body">Welcome! Can you separate a useful life hack from an internet myth? Test your instincts, learn the facts, and stay safe.</string>
+    <string name="welcome_details">10 flashcards · Hack = True · Myth = False
+Answer each card, read the explanation, then tap Next.</string>
+    <string name="safety_note">Learn first. Never try a risky tip just to test it. Follow manufacturer instructions and official safety guidance.</string>
+    <string name="start">Start quiz</string>
+    <string name="quiz_title">Hack or myth?</string>
+    <string name="hack">Hack (True)</string>
+    <string name="myth">Myth (False)</string>
+    <string name="next">Next</string>
+    <string name="see_score">See my score</string>
+    <string name="choose_answer">Choose an answer to reveal the facts.</string>
+    <string name="question_progress">Question %1$d of %2$d</string>
+    <string name="score_progress">Score: %1$d / %2$d</string>
+    <string name="correct_hack">Correct! That’s a useful life hack.</string>
+    <string name="correct_myth">Correct! You spotted an urban myth.</string>
+    <string name="wrong_hack">Not quite. This one is a genuine hack.</string>
+    <string name="wrong_myth">Wrong! That’s an urban myth.</string>
+    <string name="result_title">Your results</string>
+    <string name="result_score">%1$d / %2$d</string>
+    <string name="correct_count">Correct answers: %1$d of %2$d</string>
+    <string name="review">Review answers</string>
+    <string name="restart">Play again</string>
+    <string name="home">Back to welcome</string>
+    <string name="review_title">The facts, explained.</string>
+    <string name="review_subtitle">All cards, your choices, and the correct answers.</string>
+    <string name="back_score">Back to score</string>
+    <string name="card_number">CARD %1$d</string>
+    <string name="correct_answer">Correct answer: %1$s</string>
+    <string name="your_answer">Your answer: %1$s — %2$s</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="unanswered">Not answered</string>
+    <string name="source_label">Source: %1$s</string>
+    <string name="quit_title">Leave this quiz?</string>
+    <string name="quit_message">Your current answers will be cleared.</string>
+    <string name="leave">Leave quiz</string>
+    <string name="stay">Keep playing</string>
+</resources>
